@@ -1,7 +1,7 @@
 # design-patterns-java
 This repository provides a comprehensive overview of Design Patterns in Java from a practical perspective.
 
-What Patterns Does This Course Cover?
+What Patterns Does This Repository Cover?
 
 This repository covers all the GoF design patterns. In fact, here's the full list of what is covered:
 
